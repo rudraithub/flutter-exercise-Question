@@ -62,9 +62,3 @@ Input a string in UPPERCASE : WELCOME TO RUDRA IT HUB
 Expected Output :
 Here is the above string in lowercase :                              
 welcome to rudra it hub
-
-
-
-
-
-
